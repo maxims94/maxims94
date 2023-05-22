@@ -10,7 +10,7 @@ Maxim
 
 MobileConnect allows you to connect your mobile wallet to a dApp running on your desktop. (Essentially, WalletConnect for Solana)
 
-**Won a big [bounty](https://de.superteam.fun/bounties/build-login-with-mobile) that was open for >3 months**
+**Won a [big bounty](https://de.superteam.fun/bounties/build-login-with-mobile) that was open for >3 months**
 
 [![MobileConnect](logo.png)](https://solana-mobileconnect.com)
 
@@ -22,7 +22,7 @@ Source + README: [https://github.com/Solana-MobileConnect](https://github.com/So
 
 AI-powered tool to find grants on Solana based on a natural language description
 
-**One of the winners of [this](https://superteam.fun/bounties/build-a-grant-finder-website) bounty**
+**One of the winners of [this bounty](https://superteam.fun/bounties/build-a-grant-finder-website)**
 
 [![Grant Finder](grant-finder.png)](https://solana-grant-finder.vercel.app/)
 
