@@ -1,10 +1,6 @@
-Hi!
-
-My name is Maxim Schmidt 😁
+Hi! 😁
 
 **I'm a web3 developer, focused on Solana.**
-
-Contact: DM me on [Twitter](https://twitter.com/maximschmidt94)
 
 Some of my projects:
 
@@ -29,3 +25,7 @@ AI-powered tool to find grants on Solana based on a natural language description
 When you buy an expensive skateboard, you get a coupon as NFT, which you can redeem at your next purchase.
 
 [https://getyoursolboard.xyz/](https://getyoursolboard.xyz/)
+
+# Contact
+
+DM me on [Twitter](https://twitter.com/maximschmidt94)
