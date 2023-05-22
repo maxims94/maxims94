@@ -4,6 +4,8 @@ My name is Maxim Schmidt 😁
 
 **I'm a web3 developer, focused on Solana.**
 
+**Contact**: DM me on [Twitter](https://twitter.com/maximschmidt94)
+
 # Solana MobileConnect
 
 MobileConnect allows you to use your mobile wallet with a dApp that runs on a different device — for example, your desktop computer.
