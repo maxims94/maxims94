@@ -2,7 +2,7 @@ Hi! 😁
 
 **I'm a web3 developer, focused on Solana.**
 
-Here, I showcase some of my projects.
+Here are some of my projects.
 
 Maxim
 
