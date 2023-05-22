@@ -1,6 +1,10 @@
 Hi! 😁
 
-**My name is Maxim. I'm a web3 developer, focused on Solana. Here are some of my projects:**
+**I'm a web3 developer, focused on Solana.**
+
+Here, I showcase some of my projects.
+
+Maxim
 
 # Solana MobileConnect
 
