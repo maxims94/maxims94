@@ -4,13 +4,11 @@ Hi! 😁
 
 Here are some of my projects.
 
-Maxim
-
 # Solana MobileConnect
 
 MobileConnect allows you to connect your mobile wallet to a dApp running on your desktop. (Essentially, WalletConnect for Solana)
 
-**Won a [big bounty](https://de.superteam.fun/bounties/build-login-with-mobile) that was open for >3 months**
+**Won a [bounty](https://de.superteam.fun/bounties/build-login-with-mobile) that was open for >3 months**
 
 [![MobileConnect](logo.png)](https://solana-mobileconnect.com)
 
