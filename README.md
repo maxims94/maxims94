@@ -4,13 +4,13 @@ Hi! 😁
 
 # Solana MobileConnect
 
-**Think WalletConnect for Solana: Use a dApp on your desktop using your mobile wallet.**
+**WalletConnect for Solana: Allows you to use a dApp on your desktop with your mobile wallet.**
 
 **Won a $4000 [bounty](https://de.superteam.fun/bounties/build-login-with-mobile) that was open for >6 months**
 
 [![MobileConnect](logo.png)](https://solana-mobileconnect.com)
 
-[**Demo video**](https://www.youtube.com/watch?v=t1ed9T6w3Ao)
+[**>> Demo video <<**](https://www.youtube.com/watch?v=t1ed9T6w3Ao)
 
 [Website](https://solana-mobileconnect.com)
 
@@ -32,7 +32,7 @@ Hi! 😁
 
 # Get Your SolBoard!
 
-**Loyalty progamme using NFTs**
+**Loyalty progam with coupons as NFTs**
 
 [![SolBoard](solboards.png)](https://getyoursolboard.xyz/)
 
