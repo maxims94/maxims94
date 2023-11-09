@@ -1,6 +1,8 @@
 Hi! 😁
 
-**I'm a web3 developer, focused on Solana.**
+I'm a web3 developer, focused on Solana.
+
+Contact: DM me on [**Twitter**](https://twitter.com/maximschmidt94)
 
 # Solana MobileConnect
 
@@ -10,36 +12,38 @@ Hi! 😁
 
 [![MobileConnect](logo.png)](https://solana-mobileconnect.com)
 
-[**>> Demo video <<**](https://www.youtube.com/watch?v=t1ed9T6w3Ao)
+[**> Demo video <**](https://www.youtube.com/watch?v=t1ed9T6w3Ao)
 
 [Website](https://solana-mobileconnect.com)
 
-[Live demo](https://solana-mobileconnect.com/nft-demo)
+[Live](https://solana-mobileconnect.com/nft-demo)
 
 [Source + Readme](https://github.com/Solana-MobileConnect)
 
-# Grant Finder
+# SolFit
 
-**AI-powered tool to find grants on Solana based on a natural language description**
+**The gym that pays you to come!**
 
-**Won second place ($500) on a bounty**
+Pay $70 for your membership. For each time you visit the gym, you get $5 back.
 
-[![Grant Finder](grant-finder.png)](https://solana-grant-finder.vercel.app/)
+Implemented through a Smart Contract on Solana.
 
-[Live](https://solana-grant-finder.vercel.app/)
+[**> Demo video <**](https://www.youtube.com/watch?v=PJ1FmzHM_SE)
 
-[Source](https://github.com/maxims94/solana-grant-finder)
+[Screenshot](https://github.com/maxims94/solfit/blob/main/img/screenshot.png)
 
-# Get Your SolBoard!
+[Live](https://solfit.vercel.app/)
 
-**Loyalty progam with coupons as NFTs**
+[Source + Readme](https://github.com/maxims94/solfit)
 
-[![SolBoard](solboards.png)](https://getyoursolboard.xyz/)
+# Superteam OSS
 
-[Live](https://getyoursolboard.xyz/)
+**A curated collection of open-source projects that use Solana**
 
-[Source](https://github.com/maxims94/get-your-solboard)
+**Useful for developers to quickly find code samples**
 
-# Contact
+Next.JS + Airtable
 
-DM me on [**Twitter**](https://twitter.com/maximschmidt94)
+[Live](https://oss.superteam.com/)
+
+[Source](https://github.com/maxims94/https://github.com/maxims94/superteam-opensource)
