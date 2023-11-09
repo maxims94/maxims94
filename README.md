@@ -22,7 +22,7 @@ DM me on [**Twitter**](https://twitter.com/maximschmidt94)
 
 # SolFit
 
-[![SolFit](solfit.png)](https://solfit.vercel.app/)
+[![SolFit](solfit.svg)](https://solfit.vercel.app/)
 
 **The gym that pays you to come!**
 
