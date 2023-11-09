@@ -2,7 +2,7 @@
 
 **I'm a web3 developer, focused on Solana.**
 
-Contact: DM me on [**Twitter**](https://twitter.com/maximschmidt94)
+DM me on [**Twitter**](https://twitter.com/maximschmidt94)
 
 # Solana MobileConnect
 
