@@ -1,6 +1,6 @@
 # Hi! 😁
 
-I'm a web3 developer, focused on Solana.
+**I'm a web3 developer, focused on Solana.**
 
 Contact: DM me on [**Twitter**](https://twitter.com/maximschmidt94)
 
@@ -8,7 +8,7 @@ Contact: DM me on [**Twitter**](https://twitter.com/maximschmidt94)
 
 **WalletConnect for Solana: Allows you to use a dApp on your desktop with your mobile wallet.**
 
-**Won a $4000 [bounty](https://de.superteam.fun/bounties/build-login-with-mobile) that was open for >6 months**
+**Won a $4000 bounty that was open for >6 months**
 
 [![MobileConnect](logo.png)](https://solana-mobileconnect.com)
 
@@ -22,7 +22,7 @@ Contact: DM me on [**Twitter**](https://twitter.com/maximschmidt94)
 
 # SolFit
 
-[![SolFit](logo.png)](https://solfit.vercel.app/)
+[![SolFit](solfit.png)](https://solfit.vercel.app/)
 
 **The gym that pays you to come!**
 
