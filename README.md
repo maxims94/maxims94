@@ -48,6 +48,8 @@ Implemented through a Solana Program.
 
 Next.JS + Airtable
 
-[Live](https://oss.superteam.fun/)
+[**> Live <**](https://oss.superteam.fun/)
+
+[Screenshot](oss_screenshot.png)
 
 [Source](https://github.com/maxims94/superteam-opensource)
