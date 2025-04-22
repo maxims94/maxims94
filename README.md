@@ -18,6 +18,8 @@ Currently under development
 
 Planned to be available as CLI and RustRover plugin
 
+Funded by a grant from [The Solana Foundation](https://solana.org/)
+
 # Solana MobileConnect
 
 **WalletConnect for Solana: Allows you to use a dApp on your desktop with your mobile wallet.**
@@ -40,7 +42,7 @@ Planned to be available as CLI and RustRover plugin
 
 **A curated collection of open-source projects that use Solana**
 
-**Useful for developers to quickly find code samples**
+Useful for developers to quickly find code samples
 
 Next.JS + Airtable
 
