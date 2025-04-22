@@ -1,18 +1,20 @@
-# Hey
+# Hey!
 
 **I'm a Solana developer, focused on dev tooling.**
 
-DM me on [**Twitter**](https://twitter.com/maximschmidt94)
+Contact: DM me on [**X**](https://x.com/maximschmidt94)
 
 # Solana Debugger
 
 **Step debugger for Solana programs**
 
-Let's you inspect the internals of a smart contract as it's running to fix bugs.
+**Let's you inspect the internals of a smart contract to fix bugs.**
 
-Currently under development
+![Solana Debugger](debugger-icon.png)
 
 [Preview](https://x.com/maximschmidt94/status/1914802590568562965)
+
+Currently under development
 
 Planned to be available as CLI and RustRover plugin
 
