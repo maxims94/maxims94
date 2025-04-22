@@ -1,8 +1,20 @@
-# Hi! 😁
+# Hey
 
-**I'm a web3 developer, focused on Solana.**
+**I'm a Solana developer, focused on dev tooling.**
 
 DM me on [**Twitter**](https://twitter.com/maximschmidt94)
+
+# Solana Debugger
+
+**Step debugger for Solana programs**
+
+Let's you inspect the internals of a smart contract as it's running to fix bugs.
+
+Currently under development
+
+[Preview](https://x.com/maximschmidt94/status/1914802590568562965)
+
+Planned to be available as CLI and RustRover plugin
 
 # Solana MobileConnect
 
@@ -19,24 +31,6 @@ DM me on [**Twitter**](https://twitter.com/maximschmidt94)
 [Live](https://solana-mobileconnect.com/nft-demo)
 
 [Source + Readme](https://github.com/Solana-MobileConnect)
-
-# SolFit
-
-[![SolFit](solfit.png)](https://solfit.vercel.app/)
-
-**The gym that pays you to come!**
-
-Pay $120 for your membership. For each time you visit the gym, you get $10 back.
-
-Implemented through a Solana Program.
-
-[**> Demo video <**](https://www.youtube.com/watch?v=PJ1FmzHM_SE)
-
-[Screenshot](https://github.com/maxims94/solfit/blob/main/img/screenshot.png)
-
-[Live](https://solfit.vercel.app/)
-
-[Source + Readme](https://github.com/maxims94/solfit)
 
 # Superteam OSS
 
