@@ -12,11 +12,11 @@ Contact: DM me on [**X**](https://x.com/maximschmidt94)
 
 ![Solana Debugger](debugger-icon.png)
 
-[Preview](https://x.com/maximschmidt94/status/1914802590568562965)
+[**> Preview <**](https://x.com/maximschmidt94/status/1914802590568562965)
 
 Currently under development
 
-Planned to be available as CLI and RustRover plugin
+Planned to be released as CLI tool and as RustRover IDE plugin
 
 Funded by a grant from [The Solana Foundation](https://solana.org/)
 
