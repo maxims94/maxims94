@@ -10,11 +10,11 @@ Contact: DM me on [**X**](https://x.com/maximschmidt94)
 
 **Let's you inspect the internals of a smart contract to fix bugs.**
 
-Built from scratch, using a somewhat unconventional approach (but that works very well)
-
 ![Solana Debugger](debugger-icon.png)
 
 [**> Preview <**](https://x.com/maximschmidt94/status/1914802590568562965)
+
+Built from scratch, using a somewhat unconventional approach (but that works very well)
 
 Currently under development
 
