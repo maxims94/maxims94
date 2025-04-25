@@ -20,7 +20,7 @@ Currently under development
 
 Planned to be released as CLI tool and as RustRover IDE plugin
 
-Funded by a grant from [The Solana Foundation](https://solana.org/)
+Funded by a grant from [Solana Foundation](https://solana.org/)
 
 # Solana MobileConnect
 
