@@ -8,19 +8,19 @@ Contact: DM me on [**X**](https://x.com/maximschmidt94)
 
 **Step debugger for Solana programs**
 
-**Let's you inspect the internals of a smart contract to fix bugs.**
-
-Built from scratch, using a somewhat unconventional approach (but that works very well)
+**It lets you inspect the internals of a smart contract to fix bugs.**
 
 ![Solana Debugger](debugger-icon.png)
 
 [**> Preview <**](https://x.com/maximschmidt94/status/1914802590568562965)
 
+Built from scratch, using a somewhat unconventional approach (but that works very well)
+
 Currently under development
 
 Planned to be released as CLI tool and as RustRover IDE plugin
 
-Funded by a grant from [The Solana Foundation](https://solana.org/)
+Funded by a grant from [Solana Foundation](https://solana.org/)
 
 # Solana MobileConnect
 
