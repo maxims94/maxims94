@@ -6,9 +6,9 @@ Contact: DM me on [**X**](https://x.com/maximschmidt94)
 
 # Solana Debugger
 
-**Step debugger for Solana programs**
+**Interactive debugger for Solana programs**
 
-**It lets you inspect the internals of a smart contract to fix bugs.**
+**It lets you inspect the internals of your smart contract to fix bugs**
 
 ![Solana Debugger](debugger-icon.png)
 
