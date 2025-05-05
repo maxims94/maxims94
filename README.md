@@ -14,6 +14,8 @@ Contact: DM me on [**X**](https://x.com/maximschmidt94)
 
 [**> Preview <**](https://x.com/maximschmidt94/status/1914802590568562965)
 
+[**> Solana Debugger CLI <**](https://github.com/Solana-Debugger/solana-debugger-cli)
+
 Built from scratch, using a somewhat unconventional approach (but that works very well)
 
 Currently under development
