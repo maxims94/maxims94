@@ -10,7 +10,7 @@ Contact: DM me on [**X**](https://x.com/maximschmidt94)
 
 **It lets you inspect the internals of your smart contract to fix bugs**
 
-[![Solana Debugger](debugger-icon.png)](https://github.com/Solana-Debugger)
+[![Solana Debugger](solana-debugger.png)](https://github.com/Solana-Debugger)
 
 [**> Preview <**](https://x.com/maximschmidt94/status/1914802590568562965)
 
