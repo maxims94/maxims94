@@ -10,11 +10,11 @@ Contact: DM me on [**X**](https://x.com/maximschmidt94)
 
 **It lets you inspect the internals of your smart contract to fix bugs**
 
-[![Solana Debugger](solana-debugger.png)](https://github.com/Solana-Debugger)
+[![Solana Debugger](solana-debugger.png)](https://github.com/Solana-Debugger/solana-debugger-cli)
 
-[**> Preview <**](https://x.com/maximschmidt94/status/1914802590568562965)
+[**> Showcase <**](https://x.com/maximschmidt94/status/1914802590568562965)
 
-[**> Solana Debugger CLI <**](https://github.com/Solana-Debugger/solana-debugger-cli)
+[**> Overview <**](https://github.com/Solana-Debugger)
 
 Built from scratch, using a somewhat unconventional approach (but that works very well)
 
